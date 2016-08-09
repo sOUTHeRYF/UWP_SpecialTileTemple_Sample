@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tile>
+  <visual>
+    <binding template="TileMedium" branding="nameAndLogo" displayName="Looty Dungeon" hint-presentation="photos">
+      <image src="TilesIcon/player_amazon.png"/>
+      <image src="TilesIcon/player_assassin.png"/>
+      <image src="TilesIcon/player_catapult.png"/>
+      <image src="TilesIcon/player_crawler.png"/>
+      <image src="TilesIcon/player_king.png"/>
+      <image src="TilesIcon/player_lightmage.png"/>
+      <image src="TilesIcon/player_paladin.png"/>
+      <image src="TilesIcon/player_witchdoctor.png"/>
+      <image src="TilesIcon/player_wizard.png"/>
+    </binding>
+    <binding template="TileWide" branding="nameAndLogo" displayName="Looty Dungeon"  hint-presentation="photos">
+      <image src="TilesIcon/player_centaur.png"/>
+      <image src="TilesIcon/player_crawler.png"/>
+      <image src="TilesIcon/player_damon.png"/>
+      <image src="TilesIcon/player_elf.png"/>
+      <image src="TilesIcon/player_fairy.png"/>
+      <image src="TilesIcon/player_lightmage.png"/>
+      <image src="TilesIcon/player_mage.png"/>
+      <image src="TilesIcon/player_ninja.png"/>
+      <image src="TilesIcon/player_pirate.png"/>
+      <image src="TilesIcon/player_pyromage.png"/>
+      <image src="TilesIcon/player_trapper.png"/>
+      <image src="TilesIcon/player_twins.png"/>
+      <image src="TilesIcon/player_viking.png"/>
+      <image src="TilesIcon/player_witchdoctor.png"/>
+      <image src="TilesIcon/player_wizard.png"/>
+    </binding>
+    <binding template="TileLarge" branding="nameAndLogo" displayName="Looty Dungeon"  hint-presentation="photos">
+      <image src="TilesIcon/player_amazon.png"/>
+      <image src="TilesIcon/player_archer.png"/>
+      <image src="TilesIcon/player_assassin.png"/>
+      <image src="TilesIcon/player_barbarian.png"/>
+      <image src="TilesIcon/player_berserker.png"/>
+      <image src="TilesIcon/player_fairy.png"/>
+      <image src="TilesIcon/player_fighter.png"/>
+      <image src="TilesIcon/player_gladiator.png"/>
+      <image src="TilesIcon/player_gnomelock.png"/>
+      <image src="TilesIcon/player_jester.png"/>
+      <image src="TilesIcon/player_jocelyn.png"/>
+      <image src="TilesIcon/player_paladin.png"/>
+      <image src="TilesIcon/player_peasant.png"/>
+      <image src="TilesIcon/player_pirate.png"/>
+      <image src="TilesIcon/player_pyromage.png"/>
+      <image src="TilesIcon/player_queen.png"/>
+      <image src="TilesIcon/player_rogue.png"/>
+      <image src="TilesIcon/player_viking.png"/>
+      <image src="TilesIcon/player_warrior.png"/>
+      <image src="TilesIcon/player_wildman.png"/>
+    </binding>
+  </visual>
+</tile>

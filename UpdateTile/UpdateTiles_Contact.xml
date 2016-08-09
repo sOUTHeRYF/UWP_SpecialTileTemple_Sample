@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<tile>
+  <visual>
+    <binding template="TileMedium" branding="nameAndLogo" displayName="Looty Dungeon" hint-presentation="contact">
+      <text>拥有10000金币</text>
+      <image src="TilesIcon/player_centaur.png"/>
+    </binding>
+    <binding template="TileWide" branding="nameAndLogo" displayName="Looty Dungeon"  hint-presentation="contact">
+      <text>拥有20000金币</text>
+      <image src="TilesIcon/player_wizard.png"/>
+    </binding>
+    <binding template="TileLarge" branding="nameAndLogo" displayName="Looty Dungeon"  hint-presentation="contact">
+      <text>拥有30000金币</text>
+      <image src="TilesIcon/player_wildman.png"/>
+    </binding>
+  </visual>
+</tile>
